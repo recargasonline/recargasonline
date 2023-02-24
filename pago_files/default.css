@@ -1,0 +1,186 @@
+#header {
+	display:none;
+}
+
+#modalExpiredCart{
+	display:none;
+}
+
+#modalDinamic{
+	display:none;
+}
+
+#notification{
+	display:none;
+}
+
+#notificationDinamic{
+	display:none;
+}
+
+#tipoTarjeta{
+	display:none;
+}
+
+#datosDCC{
+	display:none;
+}
+
+#sidebar{
+	display:none;
+}
+
+#datosImporteOriginal{
+	display:none;
+}
+
+#saveMethodRow {
+	display:none;
+}
+
+#savePaymentMethodBody{
+	display:none;
+}
+
+#tipoCuota{
+	display:none;
+}
+
+#Cuota{
+	display:none;
+}
+
+#OpcionesCuota{
+	display:none;
+}
+
+#capCaptcha{
+	display:none;
+}
+
+#datosdeCompra{
+	display:none;
+}
+
+#importeOriginal2{
+	display:none;
+}
+
+#clearDIV{
+	clear:both;
+}
+
+#confirmButtonDCC{
+	display:none;
+}
+
+#confirmButtonDIVDCC{
+	height: 50px;
+}
+
+#confirmButtonDIVTitular{
+	width: 50px;
+	position:relative;
+	float: left;
+}
+
+#paypalBoton{
+	display:none;
+}
+
+#confirmPaymentPaypalButton{
+	display:none;
+}
+
+#applepay{
+	display:none;
+}
+
+#confirmPaymentAppleButton{
+	display:none;
+}
+
+#errorOB{
+	display:none;
+}
+
+#otrosMediosPago{
+	display:none;
+}
+
+#contenido{
+	display:none;
+}
+
+
+#paypalContenido{
+	display:none;
+}
+
+#applepayContenido{
+	display:none;
+}
+
+#radio1{
+	vertical-align: middle;
+	margin-top: -1px;
+}
+
+#radio2{
+	vertical-align: middle;
+	margin-top: -1px;
+}
+
+#footer {
+	display:none;
+}
+
+#left_content {
+	display:none;
+}
+
+#right_content {
+	display:none;
+}
+
+#tapa {
+	display:none;
+}
+
+#idspace{
+	display:none;
+}
+
+#idOTP{
+	display:none;
+}
+#mercadoPago{
+	display:none;
+}
+#mercadoPagoContenido{
+	display:none;
+}
+
+.cardbox{
+	display:none;
+}
+
+#expiryDateDIVRowNew{	
+	display: none;
+}
+#boletoAdyen{
+	display: none;
+}
+#boletoAdyenContenido{
+	display: none;
+}
+#3dAdyenframe{
+	display: none;
+}
+#fpCyberFrame{
+	display: none !important;
+}
+
+#divContainerHeadPayByLink{
+	display: none !important;
+}
